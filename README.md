@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/Santafosta1999">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daiccordeiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daiccordeiro&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santafosta1999&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div align="center">
@@ -23,5 +23,5 @@
   ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
    
-  ![Snake animation](https://github.com/Santafosta1999/Santafosta1999/blob/output/github-contribution-grid-snake.svg) 
+  ![Snake animation](https://github.com/Santafosta1999/Santafosta1999/blob/output/github-contribution-grid-snake.svg)
 </div>
