@@ -3,7 +3,11 @@
 <div align="center">
   <a href="https://github.com/Santafosta1999">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Santafosta1999&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santafosta1999)](https://github.com/Santafosta1999/github-readme-stats)
+  
+### Ferramentas e Tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+          
 </div>
   
 <div align="center">
