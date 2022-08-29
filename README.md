@@ -23,5 +23,5 @@
   ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
    
-  ![Snake animation](https://github.com/daiccordeiro/daiccordeiro/blob/output/github-contribution-grid-snake.svg) 
+  ![Snake animation](https://github.com/Santafosta1999/Santafosta1999/blob/output/github-contribution-grid-snake.svg) 
 </div>
