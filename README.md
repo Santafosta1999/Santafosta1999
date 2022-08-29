@@ -1,18 +1,13 @@
 ### Hi there 👋
 
-<style>
-  icons {width: 40px; heigth: 40px;}
-</style>
 
 <div align="center">
   <a href="https://github.com/Santafosta1999">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santafosta1999&layout=compact&langs_count=8&theme=tokyonight"/>
   
 ### Ferramentas e Tecnologias
-<img class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" />
-<img class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width=40px heigth=40px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server" width=40px heigth=40px />                     
 </div>
   
 <div align="center">
