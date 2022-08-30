@@ -5,7 +5,7 @@
   <a href="https://github.com/Santafosta1999">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santafosta1999&layout=compact&langs_count=8&theme=tokyonight"/>
   
-### 🪛 Skills
+### 🎯 Skills
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" title=".Net Core"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" title="C#"/>
 <img src="https://img.shields.io/badge/Visual Basic.Net-5C2D91?style=for-the-badge" title="Visual Basic.Net"/>
