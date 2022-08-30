@@ -1,11 +1,11 @@
-### Hi there 👋
+### ☕ Hello World 
 
 
 <div align="center">
   <a href="https://github.com/Santafosta1999">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santafosta1999&layout=compact&langs_count=8&theme=tokyonight"/>
   
-### Ferramentas e Tecnologias
+### 🪛 Skills
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" title=".Net Core"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" title="C#"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" title="Visual Basic.Net"/>
@@ -29,6 +29,19 @@
 
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" title="GIT" />  
 
+</div>
+
+
+
+<div align="center">
+  <a href="https://github.com/Santafosta1999">
+  
+### 💻 My Workspace
+
+  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i5%2009th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </div>
   
 <div align="center">
