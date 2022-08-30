@@ -8,8 +8,8 @@
 ### 🪛 Skills
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" title=".Net Core"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" title="C#"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" title="Visual Basic.Net"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" title="Visual Basic 6.0"/>
+<img src="https://img.shields.io/badge/Visual Basic.Net-5C2D91?style=for-the-badge" title="Visual Basic.Net"/>
+<img src="https://img.shields.io/badge/Visual Basic 6.0-07405E?style=for-the-badge" title="Visual Basic 6.0"/>
 
 <br>
 
